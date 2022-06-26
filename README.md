@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehosuaes&layout=compact&hide=scss"/>
+  </a> 
+</div>
+
+
+
+
+
+
+
+
 <!--
 **YehosuaEs/YehosuaEs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +26,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Yehosua Es GitHub stats](https://github-readme-stats.vercel.app/api?username=yehosuaes&show_icons=true)
+
+[![Yehosua Es GitHub stats](https://github-readme-stats.vercel.app/api?username=yehosuaes)](https://github.com/anuraghazra/github-readme-stats)
 -->
