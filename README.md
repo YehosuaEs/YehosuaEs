@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Avenir&size=24&duration=4000&color=E7E7E7&lines=Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Avenir&size=24&duration=4000&color=FFDF00&lines=Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
 
 </div>
 
