@@ -1,14 +1,16 @@
 <!--
 ![Banner de GitHub](https://user-images.githubusercontent.com/93733677/175829894-e0973ea5-0fca-4dde-89b8-3d220350b0d8.jpg)
 -->
+<div align="left">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Avenir&size=24&duration=6000&color=FFDF00&lines=Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
+
+</div>
+
 ![Banner de github3](https://user-images.githubusercontent.com/93733677/175830110-4f2c1a13-9f5b-4401-ae84-5197360969ce.jpg)
 
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Avenir&size=24&duration=4000&color=FFDF00&lines=Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
 
-</div>
 
 <!--
 <p align="center">
