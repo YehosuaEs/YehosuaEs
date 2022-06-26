@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Avenir&size=32&duration=4000&color=E7E7E7&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+</div>
+
+
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,7 +23,7 @@
 **YehosuaEs/YehosuaEs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
