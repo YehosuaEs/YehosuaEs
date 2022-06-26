@@ -1,16 +1,13 @@
 <!--
 ![Banner de GitHub](https://user-images.githubusercontent.com/93733677/175829894-e0973ea5-0fca-4dde-89b8-3d220350b0d8.jpg)
 -->
-<div align="left">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Avenir&size=24&duration=6000&color=FFDF00&lines=Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
-
-</div>
 
 ![Banner de github3](https://user-images.githubusercontent.com/93733677/175830110-4f2c1a13-9f5b-4401-ae84-5197360969ce.jpg)
 
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+to+my+GitHub;I'm+a+Front+End+Developer;Always%20learning%20new%20things&font=Avenir&center=true&width=440&height=45&color=FFDF00&vCenter=true&size=24"></a>
+</p>
 
 <!--
 <p align="center">
@@ -42,9 +39,11 @@
 
 ## Contact
 
+<p> I Like connecting with people so if you want to say hi, I'll be happy to meet you!</p>
 <a href="https://www.linkedin.com/in/edgaryehosuaescobedo/">Linkedin</a>
 </br>
 <a href="">Website </a> (work in progress)
+
 
 <!--
 **YehosuaEs/YehosuaEs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,6 +58,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![](https://visitor-badge.glitch.me/badge?page_id=yehosuaes.yehosuaes)
 
 ![Yehosua Es GitHub stats](https://github-readme-stats.vercel.app/api?username=yehosuaes&show_icons=true)
 
