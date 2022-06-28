@@ -39,7 +39,7 @@
 
 ## Contact
 
-<p> I Like connecting with people so if you want to say hi, I'll be happy to meet you!</p>
+<p> I like connecting with people so if you want to say hi, I'll be happy to meet you!</p>
 <a href="https://www.linkedin.com/in/edgaryehosuaescobedo/">Linkedin</a>
 </br>
 <a href="">Website </a> (work in progress)
