@@ -24,7 +24,7 @@
 ## Technologies & Tools
 
 <div align="center">
-   <img width="24" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png"> &nbsp;
+   <img width="23" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png"> &nbsp;
    <img width="24" alt="ReactJS" src="https://user-images.githubusercontent.com/93733677/175814537-88330de7-4e5a-425f-a933-eaf1c0bd9331.png"> &nbsp;
    <img width="24" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png"> &nbsp;
   <img width="24" alt="CSS3" src="https://user-images.githubusercontent.com/93733677/175814939-9e82779a-c8a2-4fe2-999a-22ff7ffb8282.png"> &nbsp; 
