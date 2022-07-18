@@ -47,6 +47,10 @@
 
 <!--<a href="https://github.com/YehosuaEs">Website </a> (work in progress)-->
 
+<p align="center">
+<!-- <img src="https://page-views.glitch.me/badge?page_id=yehosuaes.visitor-badge" alt="Visitors"> -->
+  <img src="https://komarev.com/ghpvc/?username=YehosuaEs" alt="Profile viewes">
+</p>
 
 <!--
 **YehosuaEs/YehosuaEs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
