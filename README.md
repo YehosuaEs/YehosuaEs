@@ -46,9 +46,11 @@
 <!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)-->
 
 <!--<a href="https://github.com/YehosuaEs">Website </a> (work in progress)-->
+<br>
+<br>
 
 <p align="center">
-<!-- <img src="https://page-views.glitch.me/badge?page_id=yehosuaes.visitor-badge" alt="Visitors"> -->
+  <!-- <img src="https://page-views.glitch.me/badge?page_id=yehosuaes.visitor-badge" alt="Visitors"> -->
   <img src="https://komarev.com/ghpvc/?username=YehosuaEs" alt="Profile viewes">
 </p>
 
