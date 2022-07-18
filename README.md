@@ -40,9 +40,12 @@
 ## Contact
 
 <p> I like connecting with people so if you want to say hi, I'll be happy to meet you!</p>
-<a href="https://www.linkedin.com/in/edgaryehosuaescobedo/">Linkedin</a>
-</br>
-<a href="https://github.com/YehosuaEs">Website </a> (work in progress)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgaryehosuaescobedo/)
+<!--<a href="https://www.linkedin.com/in/edgaryehosuaescobedo/">Linkedin</a>-->
+<!--[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)-->
+
+<!--<a href="https://github.com/YehosuaEs">Website </a> (work in progress)-->
 
 
 <!--
