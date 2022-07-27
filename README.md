@@ -1,12 +1,14 @@
 <!--
 ![Banner de GitHub](https://user-images.githubusercontent.com/93733677/175829894-e0973ea5-0fca-4dde-89b8-3d220350b0d8.jpg)
+
+&background=0A0C10
 -->
 
 ![Banner de github3](https://user-images.githubusercontent.com/93733677/175830110-4f2c1a13-9f5b-4401-ae84-5197360969ce.jpg)
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+to+my+GitHub;I'm+a+Front+End+Developer;Always%20learning%20new%20things&font=Avenir&center=true&width=440&height=45&color=FFDF00&vCenter=true&size=24&background=0A0C10"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+to+my+GitHub;I'm+a+Front+End+Developer;Always%20learning%20new%20things&font=Avenir&center=true&width=440&height=45&color=3178c6&vCenter=true&size=24"></a>
 </p>
 
 <!--
