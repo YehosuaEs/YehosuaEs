@@ -27,10 +27,10 @@
 
 <div align="center">
    <img width="23" alt="VueJS" src="https://user-images.githubusercontent.com/93733677/187198560-09d5ed7d-c82f-4ab4-a735-5d1dae605bc1.png"> &nbsp;
-   <img width="24" alt="ReactJS" src="https://user-images.githubusercontent.com/93733677/175814537-88330de7-4e5a-425f-a933-eaf1c0bd9331.png"> &nbsp;
+   <img width="25" alt="ReactJS" src="https://user-images.githubusercontent.com/93733677/175814537-88330de7-4e5a-425f-a933-eaf1c0bd9331.png"> &nbsp;
    <img width="23" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png"> &nbsp;
-   <img width="24" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png"> &nbsp;
-   <img width="24" alt="CSS3" src="https://user-images.githubusercontent.com/93733677/175814939-9e82779a-c8a2-4fe2-999a-22ff7ffb8282.png"> &nbsp; 
+   <img width="23" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png"> &nbsp;
+   <img width="23" alt="CSS3" src="https://user-images.githubusercontent.com/93733677/175814939-9e82779a-c8a2-4fe2-999a-22ff7ffb8282.png"> &nbsp; 
    <img width="24" alt=" Bootstrap" src="https://user-images.githubusercontent.com/93733677/175830755-c94366b4-734c-4346-8ca7-74db5a9f0946.png"> &nbsp;
    <img width="24" alt="StyledComponents" src="https://user-images.githubusercontent.com/93733677/175815609-7bdf9c04-6289-412e-b1b9-485f8aca126c.png"> &nbsp;
    <img width="26" alt="Git" src="https://user-images.githubusercontent.com/93733677/175831079-ee53a463-836d-48c0-91da-d0fb3eb5a491.png"> &nbsp;
