@@ -20,7 +20,6 @@
 ## GitHub Stats
 
 <div align="center">
-  <!--  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehosuaes&layout=compact&hide=scss&theme=tokyonight"/> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehosuaes&layout=compact&theme=tokyonight&hide=scss" />
 </div>
 
