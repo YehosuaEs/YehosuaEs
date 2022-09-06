@@ -4,7 +4,7 @@
 &background=0A0C10
 -->
 
-![Banner de github3](https://user-images.githubusercontent.com/93733677/175830110-4f2c1a13-9f5b-4401-ae84-5197360969ce.jpg)
+![Banner de github3](https://user-images.githubusercontent.com/93733677/188735026-a9a05829-f06c-496c-883e-1966cddd9315.png)
 
 
 <p align="center">
