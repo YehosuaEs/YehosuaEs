@@ -27,6 +27,7 @@
 
 ### Front-End
 <div align="left" >
+     <img width="25"  alt="Ionic" src="https://user-images.githubusercontent.com/93733677/209311910-ee8e535b-70e2-4d66-b8d0-dde9c963d502.png">&nbsp; 
    <img width="23" alt="Angular" src="https://material.angular.io/assets/img/homepage/angular-logo.svg"> &nbsp; 
    <img width="23" alt="VueJS" src="https://user-images.githubusercontent.com/93733677/187198560-09d5ed7d-c82f-4ab4-a735-5d1dae605bc1.png"> &nbsp;
    <img width="25" alt="ReactJS" src="https://user-images.githubusercontent.com/93733677/175814537-88330de7-4e5a-425f-a933-eaf1c0bd9331.png"> &nbsp;
@@ -55,7 +56,7 @@
 ### Others
 
 <div align="left">
-   <img width="24" alt="VisualStudio Code" src="https://user-images.githubusercontent.com/93733677/175830790-1e53af26-bff0-42da-8735-20b6030accb7.png"> &nbsp;
+   <img width="24" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/93733677/209324728-0af69fcf-b5e9-4dfa-a971-871f9f88837e.png"> &nbsp;
     <img width="24" alt="IntelliJ IDEA " src="https://user-images.githubusercontent.com/93733677/200892033-bb0640b9-c843-4f4a-8326-93c6cf4147e1.png"> &nbsp;
    <img width="26" alt="Git" src="https://user-images.githubusercontent.com/93733677/175831079-ee53a463-836d-48c0-91da-d0fb3eb5a491.png"> &nbsp;
    <img width="24" alt="Affinity Designer" src="https://user-images.githubusercontent.com/93733677/175830570-b4500a44-5e0b-4b71-982b-acb579cd26e3.png"> &nbsp;
