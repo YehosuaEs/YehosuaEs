@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+to+my+GitHub;I'm+a+Front+End+Developer;Always%20learning%20new%20things&font=Avenir&center=true&width=440&height=45&color=3178c6&vCenter=true&size=24"></a>
+  <!--<a href="https://github.com/DenverCoder1/readme-typing-svg">--><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Welcome+to+my+GitHub;I'm+a+Front+End+Developer;Always%20learning%20new%20things&font=Avenir&center=true&width=440&height=45&color=3178c6&vCenter=true&size=24"><!--</a>-->
 </p>
 
 <!--
@@ -16,16 +16,19 @@
   I'm a frontend web developer, I like to design and develop web sites.
 </p>
 -->
+### Job 
 
-## GitHub Stats
+Currently working as Front-End Developer in  <a href="https://www.gestamp.com/Que-Hacemos/Industria-4-0">Gestamp Industria 4.0</a>
 
-<div align="center">
+<!--## GitHub Stats -->
+
+### Technologies & Tools
+
+<div align="left">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehosuaes&layout=compact&theme=tokyonight&hide=scss" />
 </div>
 
-## Technologies & Tools
-
-### Front-End
+#### Front-End
 <div align="left" >
      <img width="25"  alt="Ionic" src="https://user-images.githubusercontent.com/93733677/209311910-ee8e535b-70e2-4d66-b8d0-dde9c963d502.png">&nbsp; 
    <img width="23" alt="Angular" src="https://material.angular.io/assets/img/homepage/angular-logo.svg"> &nbsp; 
@@ -42,7 +45,7 @@
    <img width="24" alt="StyledComponents" src="https://user-images.githubusercontent.com/93733677/175815609-7bdf9c04-6289-412e-b1b9-485f8aca126c.png"> &nbsp;
 </div>
 
-### Back-End
+#### Back-End
 <div align="left">
     <img width="24" alt="Java" src="https://user-images.githubusercontent.com/93733677/200889448-82995475-f45f-4a90-bc59-0e9f3a1c0996.png"> &nbsp;
    <img width="24" alt="Spring" src="https://user-images.githubusercontent.com/93733677/200889599-2077d457-4928-488f-bfee-8c1299a4fe3b.png"> &nbsp;
@@ -53,7 +56,7 @@
   
 </div>
 
-### Others
+#### Others
 
 <div align="left">
    <img width="24" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/93733677/209324728-0af69fcf-b5e9-4dfa-a971-871f9f88837e.png"> &nbsp;
@@ -63,7 +66,7 @@
    <img width="24" alt="Affinity Photo" src="https://user-images.githubusercontent.com/93733677/175830569-ee3f6975-7008-4beb-80b7-1700478cb480.png"> &nbsp;
 </div>
 
-## Contact
+### Contact
 
 <p> I like connecting with people so if you want to say hi, I'll be happy to meet you!</p>
 
