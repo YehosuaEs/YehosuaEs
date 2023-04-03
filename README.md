@@ -35,7 +35,7 @@ Currently working as Front-End Developer in  <a href="https://www.gestamp.com/Qu
    <img width="23" alt="VueJS" src="https://user-images.githubusercontent.com/93733677/187198560-09d5ed7d-c82f-4ab4-a735-5d1dae605bc1.png"> &nbsp;
    <img width="25" alt="ReactJS" src="https://user-images.githubusercontent.com/93733677/175814537-88330de7-4e5a-425f-a933-eaf1c0bd9331.png"> &nbsp;
    <img width="25"  alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"> &nbsp;
-   <img width="23" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png"> &nbsp;
+   <img width="24" alt="JavaScript" src="https://user-images.githubusercontent.com/93733677/175814736-fdc4935d-6107-4efc-a6bb-6a98dc685f80.png"> &nbsp;
    <img width="30" alt="NgRx Reactive State for Angular" src="https://ngrx.io/assets/images/badge.svg"> &nbsp;
    <img width="24" alt="Pinya State Managment for Vue" src="https://user-images.githubusercontent.com/93733677/200890575-93a5d373-d3dd-4578-afd9-a4861891de91.png"> &nbsp;
    <img width="23" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png"> &nbsp;
@@ -59,11 +59,11 @@ Currently working as Front-End Developer in  <a href="https://www.gestamp.com/Qu
 #### Others
 
 <div align="left">
-   <img width="24" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/93733677/209324728-0af69fcf-b5e9-4dfa-a971-871f9f88837e.png"> &nbsp;
-    <img width="24" alt="IntelliJ IDEA " src="https://user-images.githubusercontent.com/93733677/200892033-bb0640b9-c843-4f4a-8326-93c6cf4147e1.png"> &nbsp;
-   <img width="26" alt="Git" src="https://user-images.githubusercontent.com/93733677/175831079-ee53a463-836d-48c0-91da-d0fb3eb5a491.png"> &nbsp;
+   <img width="16" alt="FigMa" src="https://user-images.githubusercontent.com/93733677/229625331-23af7cc8-d831-4d0a-92c2-4db255fcc97b.png"> &nbsp;
    <img width="24" alt="Affinity Designer" src="https://user-images.githubusercontent.com/93733677/175830570-b4500a44-5e0b-4b71-982b-acb579cd26e3.png"> &nbsp;
-   <img width="24" alt="Affinity Photo" src="https://user-images.githubusercontent.com/93733677/175830569-ee3f6975-7008-4beb-80b7-1700478cb480.png"> &nbsp;
+   <img width="25" alt="Affinity Photo" src="https://user-images.githubusercontent.com/93733677/175830569-ee3f6975-7008-4beb-80b7-1700478cb480.png"> &nbsp;
+   <img width="25" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/93733677/209324728-0af69fcf-b5e9-4dfa-a971-871f9f88837e.png"> &nbsp;
+    <img width="25" alt="IntelliJ IDEA " src="https://user-images.githubusercontent.com/93733677/200892033-bb0640b9-c843-4f4a-8326-93c6cf4147e1.png"> &nbsp;
 </div>
 
 ### Contact
