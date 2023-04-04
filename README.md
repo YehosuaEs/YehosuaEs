@@ -40,6 +40,7 @@ Currently working as Front-End Developer in  <a href="https://www.gestamp.com/Qu
    <img width="24" alt="Pinya State Managment for Vue" src="https://user-images.githubusercontent.com/93733677/200890575-93a5d373-d3dd-4578-afd9-a4861891de91.png"> &nbsp;
    <img width="23" alt="HTML5" src="https://user-images.githubusercontent.com/93733677/175814924-338e3829-a7d8-4e3b-a9ff-6edf3d293a4f.png"> &nbsp;
    <img width="23" alt="CSS3" src="https://user-images.githubusercontent.com/93733677/175814939-9e82779a-c8a2-4fe2-999a-22ff7ffb8282.png"> &nbsp; 
+<img width="30" alt="Sass" src="https://user-images.githubusercontent.com/93733677/229626737-fcf917e1-e66d-4ac0-a2d8-e72d0908f9c8.svg"> &nbsp; 
    <img width="23" alt="Angular Material UI" src="https://material.angular.io/assets/img/angular-material-logo.svg"> &nbsp; 
    <img width="24" alt=" Bootstrap" src="https://user-images.githubusercontent.com/93733677/175830755-c94366b4-734c-4346-8ca7-74db5a9f0946.png"> &nbsp;
    <img width="24" alt="StyledComponents" src="https://user-images.githubusercontent.com/93733677/175815609-7bdf9c04-6289-412e-b1b9-485f8aca126c.png"> &nbsp;
