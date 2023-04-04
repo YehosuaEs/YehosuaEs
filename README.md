@@ -18,7 +18,7 @@
 -->
 ### Job 
 
-Currently working as Front-End Developer in  <a href="https://www.gestamp.com/Que-Hacemos/Industria-4-0">Gestamp Industria 4.0</a>
+Currently working as Front-End Developer in  <a href="https://www.gestamp.com/Que-Hacemos/Industria-4-0">Gestamp (Industry 4.0)</a>
 
 <!--## GitHub Stats -->
 
